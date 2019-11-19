@@ -1,0 +1,53 @@
+.LiveEditor {
+  border: 1px solid #aaaa;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+.Editor {
+  border: 1px solid #cccc;
+  border-radius: 10px;
+  margin: 8px;
+  padding: 8px;
+  cursor: text;
+}
+
+.Divider {
+  height: 50px;
+  width: 2px;
+  background: #cccc;
+}
+
+.ButtonItems {
+  margin: 8px;
+  display: flex;
+  flex-direction: row;
+  vertical-align: middle;
+}
+
+.Button {
+  margin: 8px;
+  padding: 10px;
+  background: white;
+  border: 1px solid #cccc;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  color: #616161aa;
+}
+
+.CommentSection {
+    border: 1px solid #aaaa;
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.Comment {
+    border: 1px solid #cccc;
+  border-radius: 10px;
+  margin: 8px;
+  padding: 8px;
+  height: 50px;
+  cursor: text;
+}
